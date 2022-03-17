@@ -1,5 +1,5 @@
 # module14-EBAC
-##Exercicios do modulo 14
+## Exercicios do modulo 14
 1. Resolva as operações:
 
 ●      10 + 15 = 25 (number)
